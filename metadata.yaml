@@ -1,5 +1,5 @@
 _repo: The-Modern-Regime-Volume-2_2582
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   annotator:
     agent_name: Rom, Svend
@@ -12,6 +12,9 @@ contributor:
     deathdate: 1908
     gutenberg_agent_id: '31637'
     url: http://www.gutenberg.org/2009/agents/31637
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Taine, Hippolyte
@@ -28,6 +31,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Hippolyte_Taine
     - http://en.wikipedia.org/wiki/Hippolyte_Taine
 description: Part of the series Origins of contemporary France. [v.5-6]
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2582#The-Modern-Regime-Volume-2
 gutenberg_issued: '2008-06-22'
 gutenberg_type: Text
 identifiers:
